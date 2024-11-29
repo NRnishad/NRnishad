@@ -49,7 +49,7 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 ### :chart_with_upwards_trend: GitHub Stats :
   
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NRnishad&theme=radical" alt="GitHub Streak Stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NRnishad&theme=radical" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRnishad&layout=compact&theme=radical" alt="Most Used Languages" width="45%"/>
 </div>
 
