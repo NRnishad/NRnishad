@@ -66,7 +66,7 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 
 ### 📖 Latest Reads :
 
-I enjoy reading self-improvement books like **Atomic Habits by James Clear** and creating summaries to internalize key lessons.  
+I enjoy reading self-improvement books like **Atomic Habits by James Clear**   
 
 ---
 
