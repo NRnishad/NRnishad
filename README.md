@@ -49,9 +49,9 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 ### :chart_with_upwards_trend: GitHub Stats :
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishadGitHub&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishadGitHub&theme=radical" alt="GitHub Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishadGitHub&layout=compact&theme=radical" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NRnishad&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NRnishad&theme=radical" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRnishad&layout=compact&theme=radical" alt="Most Used Languages"/>
 </div>
 
 ---
