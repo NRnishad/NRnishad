@@ -59,8 +59,7 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 ### :hammer_and_wrench: Projects :
   
 - 🛒 **TimeSea E-commerce Platform**: Comprehensive user and admin functionalities, including Razorpay integration, cart management, order processing, and payment handling.  
-- 🎥 **Tech Seminar Videos**: Informative sessions on web development topics like "Clients & Servers" and "Sessions & Cookies."  
-- 📚 **Learning Tracker**: A tool to monitor and reflect on daily progress during bootcamp.  
+  
 
 ---
 
