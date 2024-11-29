@@ -21,7 +21,7 @@
 
 I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently studying at **Brototy Bootcamp**.
 
-- 🌱 **Currently Learning**: Advanced web development concepts, Razorpay integration, and project management.  
+- 🌱 **Currently Learning**: Advanced web development concepts,and project management.  
 - :zap: **In my free time**: Solving LeetCode challenges, exploring new frameworks, and recording tech seminars.  
 - :mailbox: **How to reach me**: [nrnishadkottukadu@gmail.com](mailto:nrnishadkottukadu@gmail.com)  
 
